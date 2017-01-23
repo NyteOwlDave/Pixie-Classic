@@ -3,7 +3,7 @@ A very basic way to copy picture files from computer to flash drive (and vice-ve
 
 This is written in Visual Basic .Net (using Visual Studio 2015).
 
-The application allows the user to easily bulk copy picture file from a folder to a
+The application allows the user to easily bulk copy picture files from a folder to a
 removable device (such as an SD Card or Flash Drive). They can also reverse this
 operation. In other words, they can import or export a collection of picture files.
 
